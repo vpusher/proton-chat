@@ -1,0 +1,23 @@
+[
+    {
+      "id": "u1",
+      "username": "Bob",
+      "email": "bob@prontonmail.com",
+      "color": "#123456", // Color displays for this user
+      "public-key": "AAAAB3NzaC1yc2EAAAADAQABAAABAQCeKO6wDj2bqcwJE/vTvkbM069kQ7KBidJ+ERyHHtaJtKcaButnq6cahQ1Gg9caGrtJN9mu+3urzQftpNdsoGiaDx/ktoOuQa5+lTk4vZdXhkZtPIzf3uPTbIIYlP4BAEG17IWIDMs0r5hzNADPzQqyXE4ZdUx9igbCzcUEIQUJMEhzxjTpuRb4fp6YYBRISQ4Pq0IqrpIpvR/N4zgZWbKrdOsER/FI0g3G6bw6FdmV7fguer18QuslJACySgOBU0MJ/ZPGpmF8BeRbqlVB4Mdk6VyfwOUoWW9NmGRriMhKTCk0gfQrzY4OQeXRHWlZDGX5mXvjQdkGpULr/+VeLspL" // Public key of the user
+    },
+    {
+      "id": "u2",
+      "username": "Alice",
+      "email": "alice@prontonmail.com",
+      "color": "#AAABBB", // Color displays for this user
+      "public-key": "BBBB3NzaC1yc2EAAAADAQABAAABAQCeKO6wDj2bqcwJE/vTvkbM069kQ7KBidJ+ERyHHtaJtKcaButnq6cahQ1Gg9caGrtJN9mu+3urzQftpNdsoGiaDx/ktoOuQa5+lTk4vZdXhkZtPIzf3uPTbIIYlP4BAEG17IWIDMs0r5hzNADPzQqyXE4ZdUx9igbCzcUEIQUJMEhzxjTpuRb4fp6YYBRISQ4Pq0IqrpIpvR/N4zgZWbKrdOsER/FI0g3G6bw6FdmV7fguer18QuslJACySgOBU0MJ/ZPGpmF8BeRbqlVB4Mdk6VyfwOUoWW9NmGRriMhKTCk0gfQrzY4OQeXRHWlZDGX5mXvjQdkGpULr/+VeLspL" // Public key of the user
+    },
+    {
+      "id": "u3",
+      "username": "Dan",
+      "email": "dan@prontonmail.com",
+      "color": "#000000", // Color displays for this user
+      "public-key": "CCCCB3NzaC1yc2EAAAADAQABAAABAQCeKO6wDj2bqcwJE/vTvkbM069kQ7KBidJ+ERyHHtaJtKcaButnq6cahQ1Gg9caGrtJN9mu+3urzQftpNdsoGiaDx/ktoOuQa5+lTk4vZdXhkZtPIzf3uPTbIIYlP4BAEG17IWIDMs0r5hzNADPzQqyXE4ZdUx9igbCzcUEIQUJMEhzxjTpuRb4fp6YYBRISQ4Pq0IqrpIpvR/N4zgZWbKrdOsER/FI0g3G6bw6FdmV7fguer18QuslJACySgOBU0MJ/ZPGpmF8BeRbqlVB4Mdk6VyfwOUoWW9NmGRriMhKTCk0gfQrzY4OQeXRHWlZDGX5mXvjQdkGpULr/+VeLspL" // Public key of the user
+    }
+]

@@ -1,0 +1,46 @@
+.sidenav-container {
+  width: 100%;
+  height: calc(100% - 64px);
+}
+
+.sidenav-container md-sidenav {
+  max-width: 200px;
+  border-right: 1px solid #dedede;
+}
+
+.sidenav-container .mat-sidenav-content,
+.sidenav-container md-sidenav {
+  display: flex;
+  overflow: visible;
+}
+
+.scrolling-content {
+  overflow: auto;
+  width: 100%;
+}
+
+#sidenav-toggle {
+  margin-right: 1em;
+}
+
+#editor {
+  position: absolute;
+  display: block;
+  background: white;
+  padding: 1em;
+  width: 100%;
+  left: 1em;
+  bottom: 0px;
+  margin-left: -1em;
+  box-sizing: border-box;
+  border-top: 1px solid #dedede;
+
+}
+
+.messages-container {
+  padding-bottom: 5em;
+}
+
+.message-card {
+  margin: 2em;
+}

@@ -1,0 +1,21 @@
+{
+  "id": "c2",
+  "name": "Fun",
+  "color": "#FFFABB",
+  "messages": [
+    {
+      "id": "m21",
+      "message": "Funny things here",
+      "user-id": "u2",
+      "channel-id": "c2",
+      "time": 1499275248289
+    },
+    {
+      "id": "m22",
+      "message": "Yep.",
+      "user-id": "u3",
+      "channel-id": "c2",
+      "time": 1499275284459
+    }
+  ]
+}

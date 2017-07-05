@@ -1,0 +1,17 @@
+[
+    {
+      "id": "c1",
+      "name": "channel 1",
+      "users": ["u1", "u2"]
+    },
+    {
+      "id": "c2",
+      "name": "channel 3",
+      "users": ["u1", "u2", "u3"]
+    },
+    {
+      "id": "c3",
+      "name": "channel 3",
+      "users": ["u2", "u3"]
+    }
+]

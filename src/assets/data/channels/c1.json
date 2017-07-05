@@ -1,0 +1,28 @@
+{
+  "id": "c1",
+  "name": "Stuff",
+  "color": "#ABABAB",
+  "messages": [
+    {
+      "id": "m11",
+      "message": "Hello",
+      "user_id": "u1",
+      "channel_id": "c1",
+      "time": 1499275248289
+    },
+    {
+      "id": "m12",
+      "message": "World",
+      "user_id": "u2",
+      "channel_id": "c1",
+      "time": 1499275284459
+    },
+    {
+      "id": "m13",
+      "message": "This is my first message",
+      "user_id": "u1",
+      "channel_id": "c1",
+      "time": 1499275284859
+    }
+  ]
+}
